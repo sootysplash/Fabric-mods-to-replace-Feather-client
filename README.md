@@ -125,7 +125,7 @@ UI scaling - Better gui scaling https://www.curseforge.com/minecraft/mc-mods/bet
 
 Viewmodel - Viewmodel changer https://www.curseforge.com/minecraft/mc-mods/viewmodel-changer
 
-Voice - Simple voice chat https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
+Voice - Simple voice chat (Feather uses a custom voice chat hosted on their own server, this is the closest you can get to it) https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat
 
 Waypoints - Xaero's minimap https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap
 
