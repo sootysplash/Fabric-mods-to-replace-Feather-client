@@ -1,5 +1,5 @@
 # Fabric-mods-to-replace-Feather-client
-Made by Sootysplash because I hate feather.
+List of fabric mods to replace feather client mods (1.19.2 specifically but other mod versions may be present)
 
 Armor bar - Detail armor bar https://modrinth.com/mod/detail-armor-bar
 
