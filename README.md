@@ -1,7 +1,7 @@
 # Fabric-mods-to-replace-Feather-client
 List of fabric mods to replace feather client mods (1.19.2 specifically but other mod versions may be present)
 
-Armor bar - Detail armor bar https://modrinth.com/mod/detail-armor-bar
+Armor bar - [Detail armor bar] (https://modrinth.com/mod/detail-armor-bar)
 
 Inventory - Item highlighter https://modrinth.com/mod/item-highlighter and Kronhud https://modrinth.com/mod/kronhud and Smooth swapping https://modrinth.com/mod/smooth-swapping and Item borders https://www.curseforge.com/minecraft/mc-mods/item-borders-fabric Show keybindings https://modrinth.com/mod/showkeybinds
 
