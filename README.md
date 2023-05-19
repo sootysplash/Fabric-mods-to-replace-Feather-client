@@ -123,7 +123,7 @@ Toast control - Sodium extra has a setting to disable toasts, this is a complete
 
 UI scaling - [Better gui scaling](https://www.curseforge.com/minecraft/mc-mods/better-gui-scaling)
 
-Viewmodel - [Viewmodel changer](https://www.curseforge.com/minecraft/mc-mods/viewmodel-changer_
+Viewmodel - [Viewmodel changer](https://www.curseforge.com/minecraft/mc-mods/viewmodel-changer)
 
 Voice - [Simple voice chat](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat) (Feather uses a custom voice chat hosted on their own server, this is the closest you can get to it) 
 
