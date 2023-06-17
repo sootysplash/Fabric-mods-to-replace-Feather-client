@@ -113,7 +113,7 @@ Tablist - [Better ping display](https://modrinth.com/mod/better-ping-display-fab
 
 Time - [Kronhud](https://modrinth.com/mod/kronhud)
 
-Time changer - Time changer https://modrinth.com/mod/time-changer
+Time changer - [Time changer](https://modrinth.com/mod/time-changer)
 
 Title tweaker - None found
 
