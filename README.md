@@ -133,5 +133,5 @@ Weather changer - [Weather changer](https://modrinth.com/mod/weather-changer)
 
 Zoom - [Ok zoomer](https://www.curseforge.com/minecraft/mc-mods/ok-zoomer)
 
-Toggle sprint - [Persistent Toggle Sprint](https://modrinth.com/mod/persistent-toggle-sprint)
+Toggle sprint - [Persistent Toggle Sprint](ttps://modrinth.com/mod/persistent-stuff)
 
